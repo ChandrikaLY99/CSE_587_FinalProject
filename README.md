@@ -13,3 +13,6 @@ for solving NLP research problems.
 Two step pipeline:
 (i) Dataset generate: LLAMA and BART
 (ii) Fine tuning: T5 and Mistral
+
+For some reason I am not able to open the ipynb files in github, so uploaded .py files as well for grading purposes.
+
